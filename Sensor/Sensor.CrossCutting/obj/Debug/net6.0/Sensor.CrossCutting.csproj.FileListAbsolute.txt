@@ -1,0 +1,12 @@
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.CrossCutting\bin\Debug\net6.0\Sensor.CrossCutting.deps.json
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.CrossCutting\bin\Debug\net6.0\Sensor.CrossCutting.dll
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.CrossCutting\bin\Debug\net6.0\Sensor.CrossCutting.pdb
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.CrossCutting\obj\Debug\net6.0\Sensor.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.CrossCutting\obj\Debug\net6.0\Sensor.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.CrossCutting\obj\Debug\net6.0\Sensor.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.CrossCutting\obj\Debug\net6.0\Sensor.CrossCutting.AssemblyInfo.cs
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.CrossCutting\obj\Debug\net6.0\Sensor.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.CrossCutting\obj\Debug\net6.0\Sensor.CrossCutting.dll
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.CrossCutting\obj\Debug\net6.0\refint\Sensor.CrossCutting.dll
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.CrossCutting\obj\Debug\net6.0\Sensor.CrossCutting.pdb
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.CrossCutting\obj\Debug\net6.0\ref\Sensor.CrossCutting.dll

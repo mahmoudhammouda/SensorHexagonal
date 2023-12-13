@@ -1,0 +1,28 @@
+<h1 id="tableLabel">15 Measure sensor history</h1>
+
+<p>source state is {{state.value}}</p>
+
+<p *ngIf="!meseaureHistories"><em>Loading...</em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="meseaureHistories">
+  <thead>
+    <tr>
+      <th>Id Measure</th>
+      <th>Indicator</th>
+      <th>Source</th>
+      <th>Value</th>
+      <th>Unity</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let measure of meseaureHistories">
+      <td>{{ measure.id }}</td>
+      <td>{{ measure.indicatorId }}</td>
+      <td>{{ measure.sourceId }}</td>
+      <td>{{ measure.value }}</td>
+      <td>{{ measure.unity }}</td>
+      <td>{{ measure.observationTime }}</td>
+    </tr>
+  </tbody>
+</table>

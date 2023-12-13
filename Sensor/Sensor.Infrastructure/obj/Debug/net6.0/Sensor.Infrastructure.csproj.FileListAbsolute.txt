@@ -1,0 +1,15 @@
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Infrastructure\bin\Debug\net6.0\Sensor.Infrastructure.deps.json
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Infrastructure\bin\Debug\net6.0\Sensor.Infrastructure.dll
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Infrastructure\bin\Debug\net6.0\Sensor.Infrastructure.pdb
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Infrastructure\bin\Debug\net6.0\Sensor.Domain.dll
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Infrastructure\bin\Debug\net6.0\Sensor.Domain.pdb
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Infrastructure\obj\Debug\net6.0\Sensor.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Infrastructure\obj\Debug\net6.0\Sensor.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Infrastructure\obj\Debug\net6.0\Sensor.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Infrastructure\obj\Debug\net6.0\Sensor.Infrastructure.AssemblyInfo.cs
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Infrastructure\obj\Debug\net6.0\Sensor.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Infrastructure\obj\Debug\net6.0\Sensor.Infrastructure.csproj.CopyComplete
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Infrastructure\obj\Debug\net6.0\Sensor.Infrastructure.dll
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Infrastructure\obj\Debug\net6.0\refint\Sensor.Infrastructure.dll
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Infrastructure\obj\Debug\net6.0\Sensor.Infrastructure.pdb
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Infrastructure\obj\Debug\net6.0\ref\Sensor.Infrastructure.dll

@@ -1,0 +1,288 @@
+{
+	"info": {
+		"_postman_id": "31c11b02-5b2b-463f-afce-5d9a8551fbdf",
+		"name": "Sensor",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Thresholds",
+			"item": [
+				{
+					"name": "Threshold_GetAll",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Threshold_GetById",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Threshold_Update",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Threshold_Create",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Indicators",
+			"item": [
+				{
+					"name": "Indicator_Update",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Indicator_Get",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Indicator_Create",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Indicator_Delete",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"name\":\"Température Radiante Moyenne (TRM)\",\"description\":\"Moyenne pondérée des températures\",\"category\":\"Chaleur\",\"valueType\":0,\"id\":3}"
+						},
+						"url": {
+							"raw": "https://localhost:7144/api/indicators",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7144",
+							"path": [
+								"api",
+								"indicators"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Measures",
+			"item": [
+				{
+					"name": "Measure_Create",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Measure_Update",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Measure_GetAll",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "https://localhost:7144/api/measures",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7144",
+							"path": [
+								"api",
+								"measures"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Measure_GetById",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "https://localhost:7144/api/measures",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7144",
+							"path": [
+								"api",
+								"measures"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Measure_GetHistory_15",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "https://localhost:7144/api/measures?historyCount=15",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7144",
+							"path": [
+								"api",
+								"measures"
+							],
+							"query": [
+								{
+									"key": "historyCount",
+									"value": "15"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Sates",
+			"item": [
+				{
+					"name": "States_Get_Temperature_sourcoue0",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

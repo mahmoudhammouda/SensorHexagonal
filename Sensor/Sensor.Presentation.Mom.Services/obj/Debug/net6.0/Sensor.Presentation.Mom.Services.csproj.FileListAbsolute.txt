@@ -1,0 +1,17 @@
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Presentation.Mom.Services\bin\Debug\net6.0\Sensor.Presentation.Mom.Services.deps.json
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Presentation.Mom.Services\bin\Debug\net6.0\Sensor.Presentation.Mom.Services.dll
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Presentation.Mom.Services\bin\Debug\net6.0\Sensor.Presentation.Mom.Services.pdb
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Presentation.Mom.Services\bin\Debug\net6.0\Sensor.Domain.dll
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Presentation.Mom.Services\bin\Debug\net6.0\Sensor.Infrastructure.dll
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Presentation.Mom.Services\bin\Debug\net6.0\Sensor.Infrastructure.pdb
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Presentation.Mom.Services\bin\Debug\net6.0\Sensor.Domain.pdb
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Presentation.Mom.Services\obj\Debug\net6.0\Sensor.Presentation.Mom.Services.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Presentation.Mom.Services\obj\Debug\net6.0\Sensor.Presentation.Mom.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Presentation.Mom.Services\obj\Debug\net6.0\Sensor.Presentation.Mom.Services.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Presentation.Mom.Services\obj\Debug\net6.0\Sensor.Presentation.Mom.Services.AssemblyInfo.cs
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Presentation.Mom.Services\obj\Debug\net6.0\Sensor.Presentation.Mom.Services.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Presentation.Mom.Services\obj\Debug\net6.0\Sensor.Presentation.Mom.Services.csproj.CopyComplete
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Presentation.Mom.Services\obj\Debug\net6.0\Sensor.Presentation.Mom.Services.dll
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Presentation.Mom.Services\obj\Debug\net6.0\refint\Sensor.Presentation.Mom.Services.dll
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Presentation.Mom.Services\obj\Debug\net6.0\Sensor.Presentation.Mom.Services.pdb
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Presentation.Mom.Services\obj\Debug\net6.0\ref\Sensor.Presentation.Mom.Services.dll

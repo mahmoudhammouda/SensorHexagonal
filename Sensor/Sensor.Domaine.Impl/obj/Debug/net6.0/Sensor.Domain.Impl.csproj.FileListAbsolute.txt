@@ -1,0 +1,17 @@
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Domaine.Impl\bin\Debug\net6.0\Sensor.Domain.Impl.deps.json
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Domaine.Impl\bin\Debug\net6.0\Sensor.Domain.Impl.dll
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Domaine.Impl\bin\Debug\net6.0\Sensor.Domain.Impl.pdb
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Domaine.Impl\bin\Debug\net6.0\Sensor.Domain.dll
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Domaine.Impl\bin\Debug\net6.0\Sensor.Infrastructure.dll
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Domaine.Impl\bin\Debug\net6.0\Sensor.Domain.pdb
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Domaine.Impl\bin\Debug\net6.0\Sensor.Infrastructure.pdb
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Domaine.Impl\obj\Debug\net6.0\Sensor.Domain.Impl.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Domaine.Impl\obj\Debug\net6.0\Sensor.Domain.Impl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Domaine.Impl\obj\Debug\net6.0\Sensor.Domain.Impl.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Domaine.Impl\obj\Debug\net6.0\Sensor.Domain.Impl.AssemblyInfo.cs
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Domaine.Impl\obj\Debug\net6.0\Sensor.Domain.Impl.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Domaine.Impl\obj\Debug\net6.0\Sensor.Domain.Impl.csproj.CopyComplete
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Domaine.Impl\obj\Debug\net6.0\Sensor.Domain.Impl.dll
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Domaine.Impl\obj\Debug\net6.0\refint\Sensor.Domain.Impl.dll
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Domaine.Impl\obj\Debug\net6.0\Sensor.Domain.Impl.pdb
+C:\Users\Mahmoud\source\repos\Sensor\Sensor.Domaine.Impl\obj\Debug\net6.0\ref\Sensor.Domain.Impl.dll

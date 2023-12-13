@@ -1,0 +1,1 @@
+﻿CREATE INDEX IF NOT EXISTS idx_indicatorid_sourceid ON ThresholdEntity (IndicatorId, SourceId);
